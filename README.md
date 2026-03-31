@@ -1,4 +1,4 @@
 # 0xPRICES
-Detailed pricing for [0xCLTHZ.](https://0xclthz.myspreadshop.com/)
+Detailed pricing and profits for [0xCLTHZ.](https://0xclthz.myspreadshop.com/)
 
 All units in USD.
