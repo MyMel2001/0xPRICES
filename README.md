@@ -1,2 +1,2 @@
 # prices
-Prices @ 0xCLTHZ
+Detailed pricing for 0xCLTHZ
