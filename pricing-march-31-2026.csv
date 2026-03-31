@@ -1,0 +1,241 @@
+ProductType ID;ProductType Name;Profits;Final price
+210;Mens T-Shirt;16.99;34.00
+347;Womens T-Shirt;16.99;34.00
+812;Mens Premium T-Shirt;19.99;34.00
+813;Womens Premium T-Shirt;19.99;34.00
+111;Mens Hoodie;29.49;49.99
+405;Womens Hoodie;29.49;49.99
+20;Mens Premium Hoodie;30.99;99.99
+444;Womens Premium Hoodie;30.99;99.99
+1040;Trucker Hat;14.99;45.00
+803;Snapback Baseball Cap;17.49;44.00
+2918;Flexfit Fitted Baseball Cap;14.99;39.99
+1588;Organic Baseball Cap;15.99;41.69
+1130;Men’s Fitted Poly/Cotton T-Shirt;18.99;44.42
+1361;Heavyweight Unisex T-Shirt by Gildan;19.99;32.42
+491;Unisex Tie Dye T-Shirt;20.49;34.99
+2940;Unisex Oversized Organic T-Shirt;19.99;29.99
+2844;Unisex Oversized Heavyweight T-Shirt;21.99;46.99
+3940;Heavyweight Washed Unisex T-Shirt;20.99;35.99
+2372;Stanley/Stella Blaster Oversized T-Shirt ;22.49;47.49
+951;Unisex Baseball T-Shirt;23.49;39.99
+842;Tote Bag;12.99;27.99
+378;Eco-Friendly Cotton Tote;16.49;32.69
+2346;Recycled Tote Bag;15.99;30.99
+3855;Tie Dye Tote Bag;14.99;42.69
+1367;Cotton Drawstring Bag;11.99;36.99
+1442;Hemp Carry All Pouch;14.99;24.99
+48;Kids T-Shirt;14.49;30.49
+815;Kids Premium T-Shirt;15.49;32.49
+814;Toddler Premium T-Shirt;15.49;32.49
+499;Kids Hoodie;26.99;38.99
+654;Kids‘ Premium Hoodie;28.49;41.49
+401;Organic Short Sleeve Baby Bodysuit;15.49;30.49
+4130;Long Sleeve Baby Bodysuit;16.99;31.99
+31;Coffee/Tea Mug;12.99;22.99
+949;Full Color Mug;13.99;27.69
+268;Contrast Coffee Mug;13.49;27.49
+1313;Camper Mug;15.99;29.99
+2915;40 oz Travel Tumbler;20.49;44.99
+757;20 oz Water Bottle;16.99;42.00
+1453;17 oz Insulated Stainless Steel Water Bottle;19.49;32.00
+1459;Sticker;1.49;25.00
+1621;Bumper Sticker;8.49;25.00
+512;Unisex Crewneck Sweatshirt;25.99;37.99
+1432;Mens Premium Sweatshirt;27.99;40.99
+1431;Womens Premium Slim Fit Sweatshirt;27.99;40.99
+3327;Oversized Crewneck Sweatshirt;29.99;42.49
+3326;Oversized Hooded Sweatshirt;30.99;42.49
+1962;Champion Unisex Powerblend Hoodie;39.99;69.67
+1963;Champion Unisex Powerblend Sweatshirt ;35.99;47.49
+1647;Champion Unisex T-Shirt;26.99;39.99
+2908;Champion Women’s Cropped T-Shirt;21.99;36.99
+2968;Womens Oversized Organic Cropped T-Shirt;18.99;33.99
+3732;Womens Heavyweight Cropped T-Shirt;20.99;34.69
+1408;Womens Cropped T-Shirt;21.99;34.69
+4067;Slim Fit Rib Womens T-Shirt;20.99;32.99
+4066;Slim Fit Rib Womens Tank Top;19.99;46.00
+1186;Adjustable Apron;16.99;35.00
+1429;Artisan Apron;17.99;41.99
+1426;Kids Apron;15.99;33.00
+1462;Bucket Hat;15.99;32.00
+3871;Tie Dye Bucket Hat;18.99;41.99
+2470;Rope Cap;18.99;32.99
+2950;Vintage Washed Rope Cap;16.49;30.49
+3287;Eco Trucker Cap;14.99;28.99
+2345;Unisex Full Zip Hoodie;36.99;66.49
+93;Unisex Premium Organic Zip Hoodie;35.99;76.78
+445;Womens Premium Organic Zip Hoodie;35.99;67.00
+2421;Womens Half Zip Cropped Hoodie;34.99;69.00
+2420;Womens Jogger Short;25.99;39.99
+2422;Women’s Cropped Hoodie & Jogger Short Set;49.49;68.99
+2883;Women’s Cropped Hoodie;29.99;49.49
+2376;Bella + Canvas Unisex Short;31.99;46.99
+1446;Unisex Joggers;27.99;42.99
+4314;Unisex Henley T-Shirt;19.99;34.99
+691;Unisex Tri-Blend T-Shirt;21.99;38.49
+943;Womens Premium Roll Up Sleeve T-Shirt;18.99;35.49
+348;Womens V-Neck T-Shirt;19.99;36.49
+1172;Womens V-Neck Football Tee;21.99;38.49
+686;Mens V-Neck T-Shirt by Bella + Canvas;19.99;46.49
+916;Mens Premium Tank;19.99;36.99
+917;Womens Premium Tank Top;19.99;36.99
+752;Womens Flowy Tank Top by Bella;20.99;37.49
+2903;Womens Relaxed Tank Top;18.99;33.99
+2917;Washed Women´s Muscle Tank Top;20.49;35.49
+2380;Unisex Tri-Blend Organic Tank;20.49;45.49
+23;Mens Long Sleeve T-Shirt;20.99;47.49
+875;Mens Premium Long Sleeve T-Shirt;22.49;49.49
+876;Womens Premium Slim Fit Long Sleeve T-Shirt;22.49;39.49
+2093;Unisex Long Sleeve Hoodie Shirt;25.99;40.99
+3852;Tie Dye Long Sleeve T-shirt;25.99;40.99
+4315;Matte Hip Bag;16.99;31.99
+4313;Matte Backpack;30.99;128.00
+3927;Basic Backpack;25.99;89.99
+636;Recycled Duffel Bag;16.99;52.00
+1445;Recycled Insulated Lunch Bag;12.99;34.00
+4229;Travel Toiletry Bag;15.99;29.00
+2427;Upright Crossbody Bag;15.99;43.00
+1586;Fanny Pack ;12.99;32.00
+3376;Jet Tag Keychain;8.49;22.49
+3004;SOCCO USA Made Crew Socks;14.99;32.00
+127;Buttons small 1 (5-pack);6.49;17.99
+125;Buttons large 2.2 (5-pack);6.49;27.99
+1052;Panoramic Mug;13.99;26.99
+3870; Buttons 3 ( 5-pack);6.99;18.49
+2241;Gildan Unisex 50/50 Jersey Polo;22.99;32.99
+2845;Gildan Kids 50/50 Jersey Polo;18.99;32.00
+1411;Womens Pique Polo Shirt;21.99;32.00
+1412;Mens Pique Polo Shirt;21.99;32.00
+3248;Adidas Performance Polo;34.49;69.67
+3038;Mens Moisture Wicking Performance Long Sleeve T-Shirt;21.49;32.32
+1263;Mens Moisture Wicking Performance T-Shirt;20.99;37.49
+1341;Womens Moisture Wicking Performance T-Shirt;20.99;37.49
+1340;Kids Moisture Wicking Performance T-Shirt;16.99;32.99
+1544;Women’s Performance Racerback Tank Top;19.99;36.49
+1543;Men’s Performance Sleeveless Shirt;19.49;35.99
+1356;Heavyweight Kids T-Shirt;13.49;39.49
+1007;Unisex Contrast Hoodie;29.99;41.99
+1068;Unisex Colorblock Hoodie;29.49;41.49
+2091;Heavyweight Unisex Hoodie CRUISER by Stanley/Stella;36.49;46.99
+3199;Adult Tie Dye Hoodie;33.99;46.49
+121;Mens Ringer T-Shirt;21.49;37.99
+1197;Mens 50/50 T-Shirt;18.99;35.49
+650;Mens Tall T-Shirt;19.99;36.49
+3212;Washed Unisex T-Shirt;22.99;37.99
+1260;Womens Curvy T-Shirt;21.99;38.49
+3021;Kids Tie Dye T-Shirt;19.99;42.42
+877;Toddler Premium Long Sleeve Shirt;16.99;36.99
+878;Kids Premium Long Sleeve T-Shirt;17.49;42.00
+1354;Kids Crewneck Sweatshirt;23.99;35.99
+1434;Kids’ Premium Organic Sweatshirt ;26.99;46.49
+4131;Womens Fleece Crewneck Sweatshirt;32.99;52.49
+4132;Unisex Colorblast Crewneck Sweatshirt;40.99;51.99
+1134;Full Color Panoramic Mug;14.49;29.99
+1470;Coffee/Tea Mug 15 oz;15.99;29.99
+3328;Mug with Heart Handle;12.99;36.99
+773;14 oz Travel Mug with Handle;17.99;41.99
+1489;16 oz Travel Mug;20.99;34.99
+1596;Square Magnet;4.99;34.99
+1595;Rectangle Magnet;4.99;16.99
+993;Mouse pad Horizontal;10.99;24.99
+3924;Gaming Mousepad;13.99;34.69
+2507;Champion Unisex Full Zip Hoodie;40.99;60.49
+3325;Champion Packable Jacket;37.99;57.49
+2508;Champion Unisex 1/4 Zip Pullover Sweatshirt;38.99;68.49
+3284;Champion Youth Hoodie;29.99;59.49
+3034;Under Armour Mens Athletic 2.0 T-Shirt;28.99;43.99
+3036;Under Armour Womens Athletic 2.0 T-Shirt;28.99;43.99
+3094;Under Armour Mens Tech Polo;42.49;55.49
+3014;Under Armour Mens Command Full Zip 2.0;69.99;99.99
+3016;Under Armour Mens Command Quarter Zip 2.0;59.99;99.99
+3015;Under Armour Womens Command Full Zip 2.0;69.99;84.00
+3017;Under Armour Womens Command Quarter Zip 2.0;59.99;69.99
+3096;Under Armour Ladies Motion Ankle Legging;60.99;74.99
+3198;Unisex College Sweat Jacket;44.99;74.99
+3323;Unisex Lightweight Windbreaker Jacket;36.99;74.99
+2487;Women’s Soft Shell Jacket;40.99;74.99
+2488;Men’s Soft Shell Jacket;40.99;74.99
+1049;Throw Pillow Cover 17.5” x 17.5”;11.99;24.00
+2447;Fleece Blanket;24.99;39.99
+610;Bandana;10.99;24.99
+611;Dog Bandana;10.99;36.99
+909;Teddy Bear;18.99;32.99
+1598;Dog;18.99;31.99
+2442;Panda Bear;18.99;44.99
+2445;Monkey;18.99;44.99
+1094;Baby Bib;11.99;24.99
+1368;Baby Cap;11.99;24.99
+2426;Baby Fleece One Piece;19.99;31.99
+1569;Men’s Cooling Performance Color Blocked Jersey;23.99;38.99
+3214;Full Button Jersey;28.99;43.99
+3080;Mens Zone Performance Long-Sleeve T-Shirt;21.49;46.49
+3078;Ladies Zone Performance Long-Sleeve T-Shirt;21.49;49.00
+3076;Mens Command Snag Protection Polo;24.99;49.00
+3075;Ladies Command Snag Protection Polo;24.99;59.00
+1307;Poster 24x36;14.49;28.00
+1306;Poster 18x24;12.49;25.00
+1301;Poster 8x12;10.49;28.00
+1316;Poster 36x24;14.49;25.00
+1300;Poster 24x24;13.49;24.00
+1317;Poster 24x18;12.49;24.00
+1303;Poster 16x16;10.99;24.00
+1302;Poster 8x8;9.99;21.00
+1318;Poster 12x8;10.49;23.00
+3288;Pigment Dyed Trucker Hat;14.99;28.99
+3697;Kids Trucker Cap;12.49;26.49
+1089;Jersey Beanie;14.99;29.99
+2417;Patch Beanie;14.99;24.99
+945;Knit Cap with Cuff Print;13.49;29.99
+3926;Unisex Camo Tee;21.99;36.99
+3426;Augusta Sportswear Mens Pursuit Polo;30.49;45.49
+3422;Augusta Sportswear Ladies` Pursuit Polo;30.49;53.49
+3429;Augusta Sportswear Unisex 2.0 Medalist Jacket;43.49;69.00
+3428;Augusta Sportswear Adult Medalist 2.0 Pullover;35.99;69.00
+3425;Augusta Sportswear Adult Cutter Jersey;23.99;69.00
+4053;Augusta Sportswear Mens Cutter Henley Jersey;28.99;59.99
+3409;Augusta Sportswear Youth 2.0 Medalist Jacket;42.99;69.00
+635;Stanley/Stella Crafter Unisex Organic T-Shirt;18.99;69.00
+2916;Stanley/Stella Serena Women’s Relaxed Organic T-Shirt;18.99;59.00
+1358;Gildan Ultra Cotton Ladies T-Shirt;19.99;32.00
+1359;Gildan Heavy Blend Adult Hoodie;29.99;42.99
+1357;Gildan Ultra Cotton Youth T-Shirt;17.99;32.99
+2440;Womens Boxy Tee;20.99;35.99
+2432;Womens Hi-Lo Tee;19.99;35.00
+2846;Bayside Unisex Heavyweight USA Made T-Shirt;21.99;36.99
+2077;Men’s Tri-Blend Organic T-Shirt;21.99;36.99
+1619;Womens Tri-Blend Organic T-Shirt;19.99;36.99
+1350;Kids Tri-Blend T-Shirt;14.49;25.49
+1112;Mens Football Tee;21.99;42.00
+1416;Womens Curvy V-Neck Football Tee;21.99;42.00
+1398;Kids Football Tee;17.99;32.00
+2089;Stanley/Stella Cultivator Organic Zip Hoodie;40.49;99.00
+3492;Stanley/Stella Nora Womens Organic Hoodie;34.99;99.00
+1425;Stanley/Stella Sounder Side Pocket Hoodie;36.49;99.00
+2930;Stanley/Stella Drummer Unisex Organic Hoodie;33.99;99.00
+2479;Stanley/Stella Radder Unisex Oversized Organic Sweatshirt;35.99;99.00
+2428;Large Crossbody Hip Bag ;16.99;41.99
+3549;Large Canvas Deluxe Tote;17.99;42.99
+3854;Cotton Pigment Dyed Tote Bag;21.49;36.49
+1613;Reusable Gift Bag;7.99;24.99
+2900;Flexfit  Melange Baseball Cap;15.49;29.99
+2416;Kids Bucket Hat;11.99;25.99
+2418;Fine Rib Knit Beanie;15.99;29.99
+1371;Kids Premium Organic T-Shirt;18.49;35.99
+1370;Toddler Premium Organic T-Shirt;18.49;35.99
+3154;Toddler Girls Flutter T-shirt;16.99;35.99
+2882;Womens Weekend Tunic Fleece Sweatshirt;26.99;37.49
+2075;Unisex Heavyweight Hoodie;38.99;64.99
+1620;Unisex Organic Hoodie;39.99;69.99
+1433;Baby Organic T-Shirt;15.49;31.49
+1268;Organic Contrast SS Baby Bodysuit;16.99;31.99
+3250;Infant Baby Rib Dress;14.99;39.99
+3027;Baby 5 Star Print One Piece;14.99;29.99
+3024;Kids 5 Star Print T-Shirt;17.49;29.99
+3026;Unisex Adult Star Printed T-Shirt;19.49;42.42
+1454;Unisex Stars & Stripes T-Shirt;21.99;76.78
+2381;American Apparel Women’s Racerneck Tank;18.99;53.99
+2904;Womens Curvy Relaxed Tank Top;19.49;54.49
+2905;Youth Girls Relaxed Tank Top;16.99;31.99
+3028;Kids 50/50 Neon T-Shirt;16.99;29.99
+3319;Toddler Fine Jersey T-Shirt;16.99;29.99
